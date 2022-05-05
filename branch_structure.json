@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dev",
+    "feature/leaderboard_page",
+    "feature/link_listing_info",
+    "feature/marketplace_optimization",
+    "fix/profile_page_limit",
+    "fix/public_page",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dev": "main",
+    "feature/leaderboard_page": "main",
+    "feature/link_listing_info": "main",
+    "feature/marketplace_optimization": "main",
+    "fix/profile_page_limit": "main",
+    "fix/public_page": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dev",
+    "feature/leaderboard_page",
+    "feature/link_listing_info",
+    "feature/marketplace_optimization",
+    "fix/profile_page_limit",
+    "fix/public_page",
+    "origin"
+  ]
+}
